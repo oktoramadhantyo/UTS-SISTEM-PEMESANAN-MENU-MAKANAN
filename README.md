@@ -2,7 +2,7 @@
 
 Proyek ini adalah aplikasi pemesanan menu makanan dan minuman berbasis CLI (Command Line Interface) yang ditulis dalam bahasa pemrograman C. Aplikasi ini dibuat sebagai bagian dari Ujian Tengah Semester (UTS) mata kuliah Praktikum Dasar Pemrograman (Daspro).
 
-## 🚀 Fitur Utama
+##  Fitur Utama
 
 - **Pemesanan Makanan**: Menyediakan 7 pilihan menu makanan (Nasi Goreng Ayam, Nasi Goreng Bakso, Nasi Goreng Spesial, Mie Ayam Pangsit, Mie Ayam Bakso, Mie Ayam Komplit, dan Sate).
 - **Tingkat Kepedasan**: Khusus untuk menu Nasi Goreng (pilihan 1-3), pengguna dapat memilih tingkat kepedasan (Pedas, Sedang, Tidak Pedas).
@@ -10,14 +10,14 @@ Proyek ini adalah aplikasi pemesanan menu makanan dan minuman berbasis CLI (Comm
 - **Struk & Total Harga**: Menampilkan daftar pesanan yang dipilih beserta perhitungan total harga yang harus dibayar.
 - **Pemesanan Ulang (Looping)**: Opsi untuk melakukan pemesanan baru setelah transaksi selesai tanpa perlu merestart program.
 
-## 📋 Struktur Repositori
+##  Struktur Repositori
 
 Di dalam repositori ini terdapat file-file berikut:
 * `UTS DASPRO KELOMPOK 4.C` - Kode sumber utama program dalam bahasa C.
 * `UTS PRAKTIKUM DASPRO_KELOMPOK 4_A.pdf` - Dokumentasi/laporan terkait tugas UTS Kelompok 4.
 * `README.md` - Panduan dokumentasi proyek ini (file ini).
 
-## 🛠️ Cara Menjalankan Program
+##  Cara Menjalankan Program
 
 Untuk menjalankan program ini di komputer Anda, pastikan Anda telah menginstal compiler C (seperti GCC).
 
@@ -48,7 +48,7 @@ Gunakan compiler GCC untuk melakukan kompilasi file `UTS DASPRO KELOMPOK 4.C`:
   ./UTS_Daspro_Kelompok4
   ```
 
-## 💻 Contoh Penggunaan Program
+##  Contoh Penggunaan Program
 
 Saat dijalankan, program akan memandu Anda dengan langkah-langkah berikut:
 1. Meminta jumlah makanan yang ingin dipesan.
@@ -57,5 +57,3 @@ Saat dijalankan, program akan memandu Anda dengan langkah-langkah berikut:
 4. Menampilkan struk pesanan secara detail beserta total harga.
 5. Menawarkan apakah ingin membuat pesanan baru (`y`/`n`).
 
----
-Dibuat dengan ❤️ oleh **Kelompok 4**.
